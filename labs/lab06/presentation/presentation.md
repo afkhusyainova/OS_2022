@@ -3,7 +3,7 @@
 lang: ru-RU
 title: Лабораторная работа №6
 author: Хусяинова Адиля Фаритовна
-institute: \inst{1}RUDN University, Moscow, Russian Federation
+institute:\inst{1}RUDN University, Moscow, Russian Federation
 
 ## Formatting
 toc: false
